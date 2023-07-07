@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>dashboard.png</file>
+    <file>icon.png</file>
+    <file>exit.png</file>
+    <file>home.png</file>
+    <file>new_user.png</file>
+    <file>search.png</file>
+    <file>settings.png</file>
+    <file>sidebar.png</file>
+    <file>user.png</file>
+    <file>user_login.png</file>
+  </qresource>
+</RCC>
